@@ -1,0 +1,23 @@
+{
+  "source_output_dir": "/Users/sofig/Documents/GitHub/proyecto2ds/outputs/deberta_xenc",
+  "bundle_dir": "/Users/sofig/Documents/GitHub/proyecto2ds/traineddatamod1",
+  "splits": [
+    "val",
+    "train"
+  ],
+  "files": [
+    "metrics_summary.parquet",
+    "train_metrics.parquet",
+    "train_predictions.parquet",
+    "val_metrics.parquet",
+    "val_predictions.parquet"
+  ],
+  "figures": [
+    "confusion_matrix_train.png",
+    "confusion_matrix_val.png",
+    "pr_train.png",
+    "pr_val.png",
+    "roc_train.png",
+    "roc_val.png"
+  ]
+}
