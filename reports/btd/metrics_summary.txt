@@ -1,0 +1,3 @@
+BTD — resultados calibrados
+VAL : F1-macro=0.4344, Acc=0.4378, Tie_pred=0.310, Tie_emp=0.311
+TEST: F1-macro=0.4433, Acc=0.4476, Tie_pred=0.307

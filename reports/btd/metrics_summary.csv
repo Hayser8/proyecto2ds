@@ -1,0 +1,3 @@
+split,f1_macro,accuracy,tie_pred
+VAL,0.4344,0.4378,0.31
+TEST,0.4433,0.4476,0.307
